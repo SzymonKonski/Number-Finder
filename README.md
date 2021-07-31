@@ -1,6 +1,6 @@
 # Number Finder
 
-Program consists of many processes. It's capable of searching, indexing and answering queries about ASCII texts that represent numbers contained in files on the system.
+Program is capable of searching, indexing and answering queries about ASCII texts that represent numbers contained in files on the system.
 
 ## Getting Started
 The program accepts several optional flags to modify the default behavior, and at least one path to an existing directory as a positional argument.
